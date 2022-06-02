@@ -17,3 +17,6 @@ $ npm run build
 WP >= 5.4
 PHP >= 8
 MySql >= 6.x
+
+## Release History
+v1.0.0 - Login users Done
