@@ -2,7 +2,7 @@
 /**
   Plugin Name: Demo Seminar
   Plugin URI: #
-  description: ...
+  description: Auto deployment!!!
   Version: 1.0
   Author: Be+
   Author URI: #
